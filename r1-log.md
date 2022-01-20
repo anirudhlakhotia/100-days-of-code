@@ -9,3 +9,11 @@ Continued the first semester project on Visualisation of Sorting Algorithms, and
 Learnt about List Comprehensions, and some nice use cases
 Have to still implement Merge Sort and Quick Sort differently.
 
+### R1D2
+Learnt about symmetric difference using ^ operator on sets, Garbage Collection.
+Tried to fix the merge sort and quick sort implementation, but struggled with it, and will try again :(
+Tried a bunch of problems on HackerRank, and got all of them to work :)
+Fixed a few bugs with animations.
+
+
+
