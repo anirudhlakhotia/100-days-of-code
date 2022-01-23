@@ -15,5 +15,11 @@ Tried to fix the merge sort and quick sort implementation, but struggled with it
 Tried a bunch of problems on HackerRank, and got all of them to work :)
 Fixed a few bugs with animations.
 
+### R1D3
+Took part in NexCode, on HackerRank
+Solved like 3 completely
+and a bunch partially
+Need to try the questions I didn't get completely, and didn't read at all due to length 
+
 
 

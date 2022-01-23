@@ -17,5 +17,13 @@
 
 **Link to work:** https://github.com/anirudhlakhotia/visual-sorting-algorithms/commit/529f3587904b0d30c141f3d79ffd3a7ce81c6740
                   HackerRank Profile - https://www.hackerrank.com/anirudhlakhotia
+            
+### Day 2: January 22, 2022 
+
+**Today's Progress**: Took part in a 3 hour competitive coding event, on Hacker Rank
+
+**Thoughts:** Struggled with most challenges, only got partial test cases, maybe because i didn't check for empty array cases, but a few problems still need a good solution, could have done better overall. 
+
+**Link to work:** _____
  
 
