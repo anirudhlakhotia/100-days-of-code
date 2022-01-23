@@ -23,6 +23,7 @@
 **Today's Progress**: Took part in a 3 hour competitive coding event, on Hacker Rank
 
 **Thoughts:** Struggled with most challenges, only got partial test cases, maybe because i didn't check for empty array cases, but a few problems still need a good solution, could have done better overall. 
+https://www.hackerrank.com/contests/nexcode/challenges/find-the-one-for-mee/problem is a question i struggled with
 
 **Link to work:** _____
  
