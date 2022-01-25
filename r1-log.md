@@ -21,5 +21,16 @@ Solved like 3 completely
 and a bunch partially
 Need to try the questions I didn't get completely, and didn't read at all due to length 
 
+### R1D4
+Learnt about Number representation, in detail.
+Tried a few questions on iterators, and remaining Hacker Rank challenges.
+
+### R1D5
+Learnt about generators, and how to use them.
+Fixed the implementation of merge sort and quick sort, and enhanced the project with a timer and somw other features
+The first semester project is almost over now
+
+
+
 
 

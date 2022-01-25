@@ -25,6 +25,22 @@
 **Thoughts:** Struggled with most challenges, only got partial test cases, maybe because i didn't check for empty array cases, but a few problems still need a good solution, could have done better overall. 
 https://www.hackerrank.com/contests/nexcode/challenges/find-the-one-for-mee/problem is a question i struggled with
 
+
+**Link to work:** _____
+### Day 3: January 24, 2022 
+
+**Today's Progress**: Tried a few questions on Number representation, and iterators in Python, and a few Hacker Rank challenges that I hadn't got from the event
+
+**Thoughts:** Need to better understand the concepts in Python, and how to use them.
 **Link to work:** _____
  
+### Day 4: January 25, 2022
+
+
+**Today's Progress**: Fixed all the implementation issues i.e.  Merge Sort and Quick Sort in the first semester project, and enhanced the project with a timer and some other features
+
+**Thoughts:** Still don't have a concrete understanding of generators but then the problems are now fixed
+**Link to work:** https://github.com/anirudhlakhotia/visual-sorting-algorithms
+
+
 
