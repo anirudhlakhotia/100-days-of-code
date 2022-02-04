@@ -48,7 +48,7 @@ https://www.hackerrank.com/contests/nexcode/challenges/find-the-one-for-mee/prob
 
 **Today's Progress**: Fixed a bunch of issues with covidash, and got tensorflow running on my laptop :)
 
-**Thoughts:** It's been a while since I've worked on covidash, and I'm glad a few things have been fixed. The code is a bit messy, but I'll try to clean it up soon. The ML model is still buggy, but I'll try to fix it soon.
+**Thoughts:** It's been a while since I've worked on covidash, and I'm glad a few things have been fixed. The code is a bit messy, but I'll try to clean it up soon. The ML model is still buggy, with a MASE of 1.26 :( but I'll try to fix it soon
 **Link to work:** https://github.com/anirudhlakhotia/covidash
 
 
