@@ -30,6 +30,10 @@ Learnt about generators, and how to use them.
 Fixed the implementation of merge sort and quick sort, and enhanced the project with a timer and somw other features
 The first semester project is almost over now
 
+### R1D6
+Continued working on Covidash, a covid-19 dashboard.
+Fixed a bunch of issues, and updated code to match external changes.
+
 
 
 
