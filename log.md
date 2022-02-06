@@ -52,3 +52,12 @@ https://www.hackerrank.com/contests/nexcode/challenges/find-the-one-for-mee/prob
 **Link to work:** https://github.com/anirudhlakhotia/covidash
 
 
+### Day 6: February 6, 2022
+
+
+**Today's Progress**: Started working on a Discord Bot for Research stuff
+
+**Thoughts:** It was really refreshing to work on something different, and I'm glad I tried something new. I'll try to improve it soon.
+**Link to work:** https://github.com/anirudhlakhotia/discordbot
+
+

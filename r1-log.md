@@ -34,6 +34,10 @@ The first semester project is almost over now
 Continued working on Covidash, a covid-19 dashboard.
 Fixed a bunch of issues, and updated code to match external changes.
 
+### R1D7
+Started working on Discord Bot
+Implemented a few features, will look into implementing more soon!
+
 
 
 
