@@ -38,6 +38,12 @@ Fixed a bunch of issues, and updated code to match external changes.
 Started working on Discord Bot
 Implemented a few features, will look into implementing more soon!
 
+### R1D7
+Continued working on Discord Bot
+Implemented a lot of new features!
+Got automatic sending working too.
+Looking for new features to implement.
+
 
 
 
