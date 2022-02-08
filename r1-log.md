@@ -38,11 +38,16 @@ Fixed a bunch of issues, and updated code to match external changes.
 Started working on Discord Bot
 Implemented a few features, will look into implementing more soon!
 
-### R1D7
+### R1D8
 Continued working on Discord Bot
 Implemented a lot of new features!
 Got automatic sending working too.
 Looking for new features to implement.
+
+### R1D9
+Continued working on Discord Bot
+Added a fun wyd feature, and Paper of the day! It's almost done, but there's a few things I could add, like yesterday's paper of the day, or a paper from any given date.
+
 
 
 

@@ -60,11 +60,19 @@ https://www.hackerrank.com/contests/nexcode/challenges/find-the-one-for-mee/prob
 **Thoughts:** It was really refreshing to work on something different, and I'm glad I tried something new. I'll try to improve it soon.
 **Link to work:** https://github.com/anirudhlakhotia/discordbot
 
-### Day 6: February 7, 2022
+### Day 7: February 7, 2022
 
 
 **Today's Progress**: Continued working on a Discord Bot for Research stuff
 
 **Thoughts:** Got a lot of features working, from Papers With Code. Looking for new features to implement now. Looking for fun miscellaneous commands to add too.
+**Link to work:** https://github.com/anirudhlakhotia/discordbot
+
+### Day 8: February 8, 2022
+
+
+**Today's Progress**: Continued working on a Discord Bot
+
+**Thoughts:** Added a fun wyd feature, and Paper of the day! It's almost done, but there's a few things I could add, like yesterday's paper of the day, or a paper from any given date.
 **Link to work:** https://github.com/anirudhlakhotia/discordbot
 
