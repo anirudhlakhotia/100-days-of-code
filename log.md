@@ -76,3 +76,11 @@ https://www.hackerrank.com/contests/nexcode/challenges/find-the-one-for-mee/prob
 **Thoughts:** Added a fun wyd feature, and Paper of the day! It's almost done, but there's a few things I could add, like yesterday's paper of the day, or a paper from any given date.
 **Link to work:** https://github.com/anirudhlakhotia/discordbot
 
+### Day 9: February 9, 2022
+
+
+**Today's Progress**: Continued working on a Discord Bot
+
+**Thoughts:** Added a Selection Menu for Domains, which throws an error for now. I'll try to fix it soon.
+**Link to work:** https://github.com/anirudhlakhotia/discordbot
+
