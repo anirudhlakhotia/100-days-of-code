@@ -84,3 +84,11 @@ https://www.hackerrank.com/contests/nexcode/challenges/find-the-one-for-mee/prob
 **Thoughts:** Added a Selection Menu for Domains, which throws an error for now. I'll try to fix it soon.
 **Link to work:** https://github.com/anirudhlakhotia/discordbot
 
+### Day 10: February 12, 2022
+
+
+**Today's Progress**: Continued working on a Discord Bot
+
+**Thoughts:** Added MongoDB support, and a few other features. Paper of the Day can now be Saved! 
+**Link to work:** https://github.com/anirudhlakhotia/discordbot
+

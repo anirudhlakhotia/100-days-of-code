@@ -48,9 +48,13 @@ Looking for new features to implement.
 Continued working on Discord Bot
 Added a fun wyd feature, and Paper of the day! It's almost done, but there's a few things I could add, like yesterday's paper of the day, or a paper from any given date.
 
-### R1D9
+### R1D10
 Continued working on Discord Bot
 Added a Selection Menu for Domains, which throws an error for now. I'll look into fixing it soon.
+
+### R1D11
+Continued working on Discord Bot
+Added MongoDB support, and a few other features and improvements.
 
 
 
