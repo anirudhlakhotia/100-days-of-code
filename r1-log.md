@@ -56,6 +56,11 @@ Added a Selection Menu for Domains, which throws an error for now. I'll look int
 Continued working on Discord Bot
 Added MongoDB support, and a few other features and improvements.
 
+### R1D12
+Deployed the bot to Microsoft Azure 
+The bot is going to be available for public use this week!
+Glad to be back after the week off due to exams :)
+
 
 
 

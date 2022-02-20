@@ -92,3 +92,11 @@ https://www.hackerrank.com/contests/nexcode/challenges/find-the-one-for-mee/prob
 **Thoughts:** Added MongoDB support, and a few other features. Paper of the Day can now be Saved! 
 **Link to work:** https://github.com/anirudhlakhotia/discordbot
 
+### Day 10: February 20, 2022
+
+
+**Today's Progress**: Worked on upcoming events for the bot, and deployed it using Microsoft Azure
+
+**Thoughts:** The bot is now deployed, and it's almost out for public use! 
+**Link to work:** https://github.com/anirudhlakhotia/discordbot
+
