@@ -61,6 +61,8 @@ Deployed the bot to Microsoft Azure
 The bot is going to be available for public use this week!
 Glad to be back after the week off due to exams :)
 
+### R1D13
+Spent an hour fixing git rebase issues :)
 
 
 
