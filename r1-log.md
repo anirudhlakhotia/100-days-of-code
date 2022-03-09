@@ -65,6 +65,12 @@ Glad to be back after the week off due to exams :)
 Spent an hour fixing git rebase issues :)
 
 
+### R1D14
+Changed UI Design for Healthify Login Page, and fixed backend issues
+Also added verification using nodemailer
+
+
+
 
 
 

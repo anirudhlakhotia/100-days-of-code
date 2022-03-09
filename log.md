@@ -108,3 +108,11 @@ https://www.hackerrank.com/contests/nexcode/challenges/find-the-one-for-mee/prob
 **Thoughts:** It was a roller coaster ride xD, but at the end of it, I can proudly say that I'm a better git user now.
 **Link to work:** https://github.com/anirudhlakhotia/discordbot
 
+### Day 13: March 9, 2022
+
+
+**Today's Progress**: Changed UI design for Healthify, and fixed backend issues. Also added verification using NodeMailer
+
+**Thoughts:** It's been a while, because of the continuous assessments at college, but it was nice to get a substantial feature working
+**Link to work:** https://github.com/acmpesuecc/healthify
+
