@@ -108,7 +108,15 @@ https://www.hackerrank.com/contests/nexcode/challenges/find-the-one-for-mee/prob
 **Thoughts:** It was a roller coaster ride xD, but at the end of it, I can proudly say that I'm a better git user now.
 **Link to work:** https://github.com/anirudhlakhotia/discordbot
 
-### Day 13: March 9, 2022
+### Day 13: March 6, 2022
+
+
+**Today's Progress**: Wrote my first research paper for a college event
+**Thoughts:** Using Latex was challenging, but the output was professional! Loved working on the Netflix Prize
+**Link to work:** 
+
+
+### Day 14: March 9, 2022
 
 
 **Today's Progress**: Changed UI design for Healthify, and fixed backend issues. Also added verification using NodeMailer
