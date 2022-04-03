@@ -85,3 +85,15 @@ Worked on a research paper on the Netflix Prize using LaTeX for a college event
 
 Changed UI Design for Healthify Login Page, and fixed backend issues
 Also added verification using nodemailer
+
+### R1D16
+
+Added hyperlink support to the jQuery DataTable on swh-web
+
+### R1D17
+
+Added price scraping , and a Levenshtein Distance Algorithm for search to Healthify
+
+### R1D18
+
+Worked on docker-compose issues and learnt about arcanist.
