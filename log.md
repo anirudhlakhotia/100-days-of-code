@@ -130,3 +130,10 @@ https://www.hackerrank.com/contests/nexcode/challenges/find-the-one-for-mee/prob
 
 **Thoughts:** I'm glad I learnt a lot about arcanist, and about docker-compose.
 **Link to work:** https://forge.softwareheritage.org/D7489
+
+### Day 17: April 3, 2022
+
+**Today's Progress**: Added Search and Camera to Healthify, and got realtime crypto prices for BTC, ETH, and SOL
+
+**Thoughts:** It was a busy day because of the inactivity during the past week.
+**Link to work:** https://github.com/acmpesuecc/healthify

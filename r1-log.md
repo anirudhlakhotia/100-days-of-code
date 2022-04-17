@@ -97,3 +97,9 @@ Added price scraping , and a Levenshtein Distance Algorithm for search to Health
 ### R1D18
 
 Worked on docker-compose issues and learnt about arcanist.
+
+
+### R1D19
+
+Added search results to healthify and the camera opening feature with a preview. Next steps would be to integrate OCR.
+Also got realtime values for cryptocurrencies for a college event.
